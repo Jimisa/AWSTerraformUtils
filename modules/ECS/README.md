@@ -1,0 +1,1 @@
+https://github.com/umotif-public/terraform-aws-ecs-fargate-task-definition
